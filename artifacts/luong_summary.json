@@ -1,0 +1,12 @@
+{
+  "model": "luong",
+  "parameters": 7959971,
+  "best_epoch": 10,
+  "dev_rougeL": 0.2914611585196418,
+  "dev_bleu": 4.715058121268861,
+  "test_rougeL": 0.3007191612462918,
+  "test_rougeL_P": 0.3215897661132615,
+  "test_rougeL_R": 0.28640842140676515,
+  "test_bleu": 5.495587406982398,
+  "seconds_per_epoch": 138.4247971151
+}

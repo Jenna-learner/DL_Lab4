@@ -1,0 +1,12 @@
+{
+  "model": "none",
+  "parameters": 7500963,
+  "best_epoch": 10,
+  "dev_rougeL": 0.22808176566442023,
+  "dev_bleu": 2.2552559502568945,
+  "test_rougeL": 0.23038860725602617,
+  "test_rougeL_P": 0.261873700028099,
+  "test_rougeL_R": 0.20836897556312856,
+  "test_bleu": 2.464209097766923,
+  "seconds_per_epoch": 85.69789027210003
+}

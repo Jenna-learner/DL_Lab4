@@ -1,0 +1,12 @@
+{
+  "model": "bahdanau",
+  "parameters": 8025763,
+  "best_epoch": 10,
+  "dev_rougeL": 0.299790285275139,
+  "dev_bleu": 4.734678850077017,
+  "test_rougeL": 0.3136223247887295,
+  "test_rougeL_P": 0.33292205451749934,
+  "test_rougeL_R": 0.30081332886600415,
+  "test_bleu": 6.02177869323343,
+  "seconds_per_epoch": 141.80938641820003
+}
